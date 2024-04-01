@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\My-repo\\WorldCities\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2791EAE4-9F86-4B56-936B-AF6EACD59C92}|worldcities.client\\worldcities.client.esproj|d:\\my-repo\\worldcities\\worldcities.client\\src\\app\\cities\\cities.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{2791EAE4-9F86-4B56-936B-AF6EACD59C92}|worldcities.client\\worldcities.client.esproj|solutionrelative:worldcities.client\\src\\app\\cities\\cities.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{486EE14B-AEF5-48FD-A940-04DF1A6CD425}|WorldCities.Server\\WorldCities.Server.csproj|d:\\my-repo\\worldcities\\worldcities.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{486EE14B-AEF5-48FD-A940-04DF1A6CD425}|WorldCities.Server\\WorldCities.Server.csproj|solutionrelative:worldcities.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{486EE14B-AEF5-48FD-A940-04DF1A6CD425}|WorldCities.Server\\WorldCities.Server.csproj|d:\\my-repo\\worldcities\\worldcities.server\\data\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{486EE14B-AEF5-48FD-A940-04DF1A6CD425}|WorldCities.Server\\WorldCities.Server.csproj|solutionrelative:worldcities.server\\data\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{486EE14B-AEF5-48FD-A940-04DF1A6CD425}|WorldCities.Server\\WorldCities.Server.csproj|d:\\my-repo\\worldcities\\worldcities.server\\controllers\\countriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{486EE14B-AEF5-48FD-A940-04DF1A6CD425}|WorldCities.Server\\WorldCities.Server.csproj|solutionrelative:worldcities.server\\controllers\\countriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2791EAE4-9F86-4B56-936B-AF6EACD59C92}|worldcities.client\\worldcities.client.esproj|d:\\my-repo\\worldcities\\worldcities.client\\src\\app\\countries\\countries.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2791EAE4-9F86-4B56-936B-AF6EACD59C92}|worldcities.client\\worldcities.client.esproj|solutionrelative:worldcities.client\\src\\app\\countries\\countries.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2791EAE4-9F86-4B56-936B-AF6EACD59C92}|worldcities.client\\worldcities.client.esproj|d:\\my-repo\\worldcities\\worldcities.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{2791EAE4-9F86-4B56-936B-AF6EACD59C92}|worldcities.client\\worldcities.client.esproj|solutionrelative:worldcities.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2791EAE4-9F86-4B56-936B-AF6EACD59C92}|worldcities.client\\worldcities.client.esproj|d:\\my-repo\\worldcities\\worldcities.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{2791EAE4-9F86-4B56-936B-AF6EACD59C92}|worldcities.client\\worldcities.client.esproj|solutionrelative:worldcities.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My-repo\\WorldCities\\WorldCities.Server\\Program.cs",
+              "RelativeDocumentMoniker": "WorldCities.Server\\Program.cs",
+              "ToolTip": "D:\\My-repo\\WorldCities\\WorldCities.Server\\Program.cs",
+              "RelativeToolTip": "WorldCities.Server\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T08:33:29.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Country.cs",
+              "DocumentMoniker": "D:\\My-repo\\WorldCities\\WorldCities.Server\\Data\\Models\\Country.cs",
+              "RelativeDocumentMoniker": "WorldCities.Server\\Data\\Models\\Country.cs",
+              "ToolTip": "D:\\My-repo\\WorldCities\\WorldCities.Server\\Data\\Models\\Country.cs",
+              "RelativeToolTip": "WorldCities.Server\\Data\\Models\\Country.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwBcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T08:30:32.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CountriesController.cs",
+              "DocumentMoniker": "D:\\My-repo\\WorldCities\\WorldCities.Server\\Controllers\\CountriesController.cs",
+              "RelativeDocumentMoniker": "WorldCities.Server\\Controllers\\CountriesController.cs",
+              "ToolTip": "D:\\My-repo\\WorldCities\\WorldCities.Server\\Controllers\\CountriesController.cs",
+              "RelativeToolTip": "WorldCities.Server\\Controllers\\CountriesController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwBoAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T08:30:23.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "countries.component.html",
+              "DocumentMoniker": "D:\\My-repo\\WorldCities\\worldcities.client\\src\\app\\countries\\countries.component.html",
+              "RelativeDocumentMoniker": "worldcities.client\\src\\app\\countries\\countries.component.html",
+              "ToolTip": "D:\\My-repo\\WorldCities\\worldcities.client\\src\\app\\countries\\countries.component.html",
+              "RelativeToolTip": "worldcities.client\\src\\app\\countries\\countries.component.html",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-04-01T08:30:09.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "app.module.ts",
+              "DocumentMoniker": "D:\\My-repo\\WorldCities\\worldcities.client\\src\\app\\app.module.ts",
+              "RelativeDocumentMoniker": "worldcities.client\\src\\app\\app.module.ts",
+              "ToolTip": "D:\\My-repo\\WorldCities\\worldcities.client\\src\\app\\app.module.ts",
+              "RelativeToolTip": "worldcities.client\\src\\app\\app.module.ts",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-04-01T08:29:09.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "app-routing.module.ts",
+              "DocumentMoniker": "D:\\My-repo\\WorldCities\\worldcities.client\\src\\app\\app-routing.module.ts",
+              "RelativeDocumentMoniker": "worldcities.client\\src\\app\\app-routing.module.ts",
+              "ToolTip": "D:\\My-repo\\WorldCities\\worldcities.client\\src\\app\\app-routing.module.ts",
+              "RelativeToolTip": "worldcities.client\\src\\app\\app-routing.module.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-04-01T08:29:00.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "cities.component.ts",
+              "DocumentMoniker": "D:\\My-repo\\WorldCities\\worldcities.client\\src\\app\\cities\\cities.component.ts",
+              "RelativeDocumentMoniker": "worldcities.client\\src\\app\\cities\\cities.component.ts",
+              "ToolTip": "D:\\My-repo\\WorldCities\\worldcities.client\\src\\app\\cities\\cities.component.ts",
+              "RelativeToolTip": "worldcities.client\\src\\app\\cities\\cities.component.ts",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAwCgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-04-01T08:28:49.702Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

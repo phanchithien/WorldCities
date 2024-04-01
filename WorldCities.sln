@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorldCities.Server", "WorldCities.Server\WorldCities.Server.csproj", "{486EE14B-AEF5-48FD-A940-04DF1A6CD425}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "worldcities.client", "worldcities.client\worldcities.client.esproj", "{2791EAE4-9F86-4B56-936B-AF6EACD59C92}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{486EE14B-AEF5-48FD-A940-04DF1A6CD425}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{486EE14B-AEF5-48FD-A940-04DF1A6CD425}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{486EE14B-AEF5-48FD-A940-04DF1A6CD425}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{486EE14B-AEF5-48FD-A940-04DF1A6CD425}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2791EAE4-9F86-4B56-936B-AF6EACD59C92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2791EAE4-9F86-4B56-936B-AF6EACD59C92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2791EAE4-9F86-4B56-936B-AF6EACD59C92}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{2791EAE4-9F86-4B56-936B-AF6EACD59C92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2791EAE4-9F86-4B56-936B-AF6EACD59C92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2791EAE4-9F86-4B56-936B-AF6EACD59C92}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3786112-1A31-4E15-A092-918430BA0EB5}
+	EndGlobalSection
+EndGlobal
