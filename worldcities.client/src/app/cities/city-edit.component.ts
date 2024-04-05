@@ -2,22 +2,22 @@ import { Component, OnInit } from '@angular/core';
 import { FormControl, FormGroup, Validators, AbstractControl, AsyncValidatorFn } from '@angular/forms';
 import { Observable } from 'rxjs';
 import { map } from 'rxjs/operators';
-import { City } from './city';
 import { ActivatedRoute, Router } from '@angular/router';
 import { HttpClient, HttpParams } from '@angular/common/http';
+
+import { City } from './city';
 import { environment } from '../../environments/environment';
 import { Country } from '../countries/country';
+import { BaseFormComponent } from '../base-form.component';
 
 @Component({
   selector: 'app-city-edit',
   templateUrl: './city-edit.component.html',
   styleUrl: './city-edit.component.scss'
 })
-export class CityEditComponent implements OnInit {
+export class CityEditComponent extends BaseFormComponent implements OnInit {
   // the view title
   title?: string;
-  // the form model
-  form!: FormGroup;
   // the city object to edit
   city?: City;
   // the city object id, as fetched from the active route:
@@ -30,13 +30,20 @@ export class CityEditComponent implements OnInit {
     private router: Router,
     private http: HttpClient
   ) {
+    super();
   }
 
   ngOnInit() {
     this.form = new FormGroup({
       name: new FormControl('', Validators.required),
-      lat: new FormControl('', Validators.required),
-      lon: new FormControl('', Validators.required),
+      lat: new FormControl('', [
+        Validators.required,
+        Validators.pattern(/^[-]?[0-9]+(\.[0-9]{1-4})?$/)
+      ]),
+      lon: new FormControl('', [
+        Validators.required,
+        Validators.pattern(/^[-]?[0-9]+(\.[0-9]{1-4})?$/)
+      ]),
       countryId: new FormControl('', Validators.required)
     }, null, this.isDupeCity())
     this.loadData();

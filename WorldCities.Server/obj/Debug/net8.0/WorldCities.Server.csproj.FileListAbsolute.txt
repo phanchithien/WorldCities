@@ -256,3 +256,4 @@ D:\My-repo\WorldCities\WorldCities.Server\bin\Debug\net8.0\runtimes\win\lib\net7
 D:\My-repo\WorldCities\WorldCities.Server\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 D:\My-repo\WorldCities\WorldCities.Server\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
 D:\My-repo\WorldCities\WorldCities.Server\bin\Debug\net8.0\System.Linq.Dynamic.Core.dll
+D:\My-repo\WorldCities\WorldCities.Server\obj\Debug\net8.0\WorldCities.Server.sourcelink.json
