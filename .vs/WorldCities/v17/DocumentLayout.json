@@ -1,12 +1,71 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\My-repo\\WorldCities\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2791EAE4-9F86-4B56-936B-AF6EACD59C92}|worldcities.client\\worldcities.client.esproj|d:\\my-repo\\worldcities\\worldcities.client\\src\\app\\countries\\country-edit.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{2791EAE4-9F86-4B56-936B-AF6EACD59C92}|worldcities.client\\worldcities.client.esproj|solutionrelative:worldcities.client\\src\\app\\countries\\country-edit.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2791EAE4-9F86-4B56-936B-AF6EACD59C92}|worldcities.client\\worldcities.client.esproj|d:\\my-repo\\worldcities\\worldcities.client\\src\\app\\countries\\countries.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{2791EAE4-9F86-4B56-936B-AF6EACD59C92}|worldcities.client\\worldcities.client.esproj|solutionrelative:worldcities.client\\src\\app\\countries\\countries.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2791EAE4-9F86-4B56-936B-AF6EACD59C92}|worldcities.client\\worldcities.client.esproj|d:\\my-repo\\worldcities\\worldcities.client\\src\\app\\cities\\cities.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{2791EAE4-9F86-4B56-936B-AF6EACD59C92}|worldcities.client\\worldcities.client.esproj|solutionrelative:worldcities.client\\src\\app\\cities\\cities.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "country-edit.component.ts",
+              "DocumentMoniker": "D:\\My-repo\\WorldCities\\worldcities.client\\src\\app\\countries\\country-edit.component.ts",
+              "RelativeDocumentMoniker": "worldcities.client\\src\\app\\countries\\country-edit.component.ts",
+              "ToolTip": "D:\\My-repo\\WorldCities\\worldcities.client\\src\\app\\countries\\country-edit.component.ts",
+              "RelativeToolTip": "worldcities.client\\src\\app\\countries\\country-edit.component.ts",
+              "ViewState": "AQIAAHgAAAAAAAAAAAAAAIkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-04-06T05:26:18.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "countries.component.ts",
+              "DocumentMoniker": "D:\\My-repo\\WorldCities\\worldcities.client\\src\\app\\countries\\countries.component.ts",
+              "RelativeDocumentMoniker": "worldcities.client\\src\\app\\countries\\countries.component.ts",
+              "ToolTip": "D:\\My-repo\\WorldCities\\worldcities.client\\src\\app\\countries\\countries.component.ts",
+              "RelativeToolTip": "worldcities.client\\src\\app\\countries\\countries.component.ts",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAwB0AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-04-06T05:24:17.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "cities.component.ts",
+              "DocumentMoniker": "D:\\My-repo\\WorldCities\\worldcities.client\\src\\app\\cities\\cities.component.ts",
+              "RelativeDocumentMoniker": "worldcities.client\\src\\app\\cities\\cities.component.ts",
+              "ToolTip": "D:\\My-repo\\WorldCities\\worldcities.client\\src\\app\\cities\\cities.component.ts",
+              "RelativeToolTip": "worldcities.client\\src\\app\\cities\\cities.component.ts",
+              "ViewState": "AQIAADIAAAAAAAAAAAAAwEUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-04-06T03:48:56.122Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
